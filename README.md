@@ -1,4 +1,4 @@
-# CCS338-Practicals-Ex7-10: Deepi CV Calibration Labs
+# CCS338-Practicals-Ex7-10: CV Calibration Labs
 
 **Implementation of Anna University CCS338 Computer Vision practical sessions (Exercises 7-10) in Jupyter Notebook.** *Focus: Camera calibration using circular grid patterns with OpenCV.* Covers distortion correction, homography, and parameter estimation—core to Unit 3 of the syllabus.
 
